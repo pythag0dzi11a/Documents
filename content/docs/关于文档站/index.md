@@ -2,7 +2,7 @@
 title: "关于文档站"
 date: "2026-02-11T17:10:00+08:00"
 author: "PythaGodzilla"
-weight: 2
+weight: 4
 ---
 
 ## 自动交付
