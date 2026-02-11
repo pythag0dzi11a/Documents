@@ -1,0 +1,12 @@
+displayUpdateDate : true
+dateFormat : "2006年1月2日"
+navbar:
+  displayTitle : true
+  displayLogo : true
+  logo :
+    path: /icons/WebIcon-512x512.ico
+    dark: /icons/WebIcon-512x512.ico
+    link: /
+    width: 40
+    height: 32
+

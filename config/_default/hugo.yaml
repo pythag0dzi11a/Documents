@@ -1,0 +1,8 @@
+baseURL : 'https://example.org/'
+languageCode : 'zh-cn'
+title : 'Wild Assistant'
+theme : 'hextra'
+enableInlineShortcodes : true
+enableGitInfo : true
+defaultContentLanguage : 'zh-cn'
+hasCJKLanguage : true

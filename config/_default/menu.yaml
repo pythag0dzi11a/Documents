@@ -1,0 +1,28 @@
+main:
+  - identifier: "home"
+    name: "首页"
+    pageRef: "/"
+    weight: 10
+
+  - identifier: "docs"
+    name: "文档"
+    pageRef: "/docs/"
+    weight: 20
+
+  - identifier: "blogs"
+    name: "博客"
+    pageRef: "/blog/"
+    weight: 30
+
+  - identifier: "search"
+    name: "搜索"
+    weight: 40
+    params:
+      type: "search"
+
+  - identifier: "github"
+    name: "GitHub"
+    weight: 50
+    url: "https://github.com/orgs/pythag0dzi11a/repositories"
+    params:
+      icon: "github"
